@@ -6,7 +6,7 @@
 - All cart and checkout functionalities
 - Complete integration with Stripe to take real payments.
 
-📌Deployment Link of Application - https://gold-gym-app.netlify.app
+📌Deployment Link of Application -
 
 👉 In this project, technologies that I used
 
