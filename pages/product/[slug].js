@@ -49,7 +49,7 @@ const ProductDetails = ({ product, products }) => {
               <AiFillStar />
               <AiOutlineStar />
             </div>
-            <p>(20)</p>
+            <p>(1024)</p>
           </div>
           <h4>Details: </h4>
           <p>{details}</p>
