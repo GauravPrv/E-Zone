@@ -97,11 +97,11 @@ const ProductDetails = ({ product, products }) => {
 
 export const getStaticPaths = async () => {
   const query = `*[_type == "product"] {
-        slug {
-            current
-        }
+    slug {
+      current
     }
-    `;
+  }
+  `;
 
   const products = await client.fetch(query);
 
